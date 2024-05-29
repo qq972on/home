@@ -3,7 +3,7 @@
   <div
     class="music"
     @mouseenter="volumeShow = true"
-    @mouseleave="volumeShow = true"
+    @mouseleave="volumeShow = false"
     v-show="store.musicOpenState"
   >
     <div class="btns">
