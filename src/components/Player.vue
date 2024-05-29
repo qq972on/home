@@ -12,7 +12,7 @@
     :showLrc="true"
     :listFolded="listFolded"
     :listMaxHeight="listMaxHeight"
-    :noticeSwitch="true"
+    :noticeSwitch="false"
     @play="onPlay"
     @pause="onPause"
     @timeupdate="onTimeUp"
@@ -65,7 +65,7 @@ const props = defineProps({
   // id
   songId: {
     type: String,
-    default: "7452421335",
+    default: "90124432",
   },
   // 列表是否默认折叠
   listFolded: {
