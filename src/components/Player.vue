@@ -12,7 +12,7 @@
     :showLrc="true"
     :listFolded="listFolded"
     :listMaxHeight="listMaxHeight"
-    :noticeSwitch="false"
+    :noticeSwitch="true"
     @play="onPlay"
     @pause="onPause"
     @timeupdate="onTimeUp"
