@@ -66,11 +66,11 @@ const siteIcon = {
   Blog,
   Cloud,
   CompactDisc,
-  Compass,
   Book,
-  Fire,
-  LaptopCode,
   tools,
+  LaptopCode,
+  Fire,
+  Compass,
   Artstation,
 };
 
