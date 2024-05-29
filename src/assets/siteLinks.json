@@ -2,12 +2,12 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://qq927.972686389.xyz/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "link": "https://pan.972686389.xyz/"
   },
   {
     "icon": "CompactDisc",
@@ -15,23 +15,33 @@
     "link": "https://music.imsyy.top/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "Book",
+    "name": "笔记",
+    "link": "https://memos.972686389.xyz/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "tools",
+    "name": "小工具",
+    "link": "https://it-tools.tech/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://uk.972686389.xyz/"
+  },
+  {
+    "icon": "Artstation",
+    "name": "alist",
+    "link": "https://alist.972686389.xyz/"
+  },
+  {
+    "icon": "Compass",
+    "name": "导航页",
+    "link": "https://go.itab.link/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
   }
 ]
